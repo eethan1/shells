@@ -1,2 +1,2 @@
 # shells
-collection
+naive collection
